@@ -1,0 +1,9 @@
+.navbar {
+    background: #1cb0f6;    
+}
+
+span {
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
+}
